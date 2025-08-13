@@ -1,0 +1,7 @@
+Laiba/
+*.exe
+*.json
+*.cfg
+*.pyc
+__pycache__/
+
